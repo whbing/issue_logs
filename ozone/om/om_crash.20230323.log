@@ -1,0 +1,521 @@
+2023-03-23 20:30:38,660 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61852748 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61852748-61858972
+2023-03-23 20:30:38,666 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61858973
+2023-03-23 20:30:46,828 [om3-client-thread176] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61858973_61864943 to index:61864943
+2023-03-23 20:30:46,829 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61858973 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61858973-61864943
+2023-03-23 20:30:46,836 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61864944
+2023-03-23 20:30:50,257 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:50,261 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:50,261 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:50,261 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:50,262 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:50,262 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:30:55,741 [om3-client-thread180] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61864944_61871133 to index:61871133
+2023-03-23 20:30:55,742 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61864944 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61864944-61871133
+2023-03-23 20:30:55,749 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61871134
+2023-03-23 20:31:04,071 [om3-client-thread161] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61871134_61877303 to index:61877303
+2023-03-23 20:31:04,071 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61871134 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61871134-61877303
+2023-03-23 20:31:04,078 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61877304
+2023-03-23 20:31:12,173 [om3-client-thread180] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61877304_61883375 to index:61883375
+2023-03-23 20:31:12,173 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61877304 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61877304-61883375
+2023-03-23 20:31:12,180 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61883376
+2023-03-23 20:31:20,954 [om3-client-thread182] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61883376_61889568 to index:61889568
+2023-03-23 20:31:20,955 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61883376 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61883376-61889568
+2023-03-23 20:31:20,962 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61889569
+2023-03-23 20:31:29,071 [om3-client-thread160] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61889569_61895595 to index:61895595
+2023-03-23 20:31:29,071 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61889569 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61889569-61895595
+2023-03-23 20:31:29,078 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61895596
+2023-03-23 20:31:37,299 [om3-client-thread161] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61895596_61901843 to index:61901843
+2023-03-23 20:31:37,299 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61895596 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61895596-61901843
+2023-03-23 20:31:37,306 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61901844
+2023-03-23 20:31:45,680 [om3-client-thread182] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61901844_61908115 to index:61908115
+2023-03-23 20:31:45,681 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61901844 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61901844-61908115
+2023-03-23 20:31:45,687 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61908116
+2023-03-23 20:31:59,025 [om3-client-thread182] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61908116_61913752 to index:61913752
+2023-03-23 20:31:59,026 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61908116 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61908116-61913752
+2023-03-23 20:31:59,033 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61913753
+2023-03-23 20:32:06,079 [om3-client-thread161] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61913753_61920134 to index:61920134
+2023-03-23 20:32:06,079 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61913753 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61913753-61920134
+2023-03-23 20:32:06,087 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61920135
+2023-03-23 20:32:13,820 [om3-client-thread180] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61920135_61926451 to index:61926451
+2023-03-23 20:32:13,821 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61920135 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61920135-61926451
+2023-03-23 20:32:13,827 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61926452
+2023-03-23 20:32:15,699 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:32:15,699 [Finalizer] WARN org.apache.hadoop.hdds.utils.db.managed.ManagedRocksObjectUtils: RocksIterator is not closed properly
+2023-03-23 20:32:21,281 [om3-client-thread183] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61926452_61932758 to index:61932758
+2023-03-23 20:32:21,281 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61926452 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61926452-61932758
+2023-03-23 20:32:21,288 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61932759
+2023-03-23 20:32:28,387 [om3-client-thread160] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-61932759_61939170 to index:61939170
+2023-03-23 20:32:28,388 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61932759 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_61932759-61939170
+2023-03-23 20:32:28,395 [om3@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om3@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_61939171
+2023-03-23 20:32:29,003 [OM StateMachine ApplyTransaction Thread - 0] ERROR org.apache.hadoop.ozone.om.KeyManagerImpl: CheckAccess operation failed for key:vol-XXX/prod-XXX/FILE_2022-03-28-13-38-36_10003/_2022-03-28-13-38-45_0.FILE
+java.io.IOException: Rocks Database is closed
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.assertClose(RocksDatabase.java:395)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.get(RocksDatabase.java:517)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.get(RDBTable.java:110)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.get(RDBTable.java:40)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.getFromTable(TypedTable.java:255)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.get(TypedTable.java:181)
+	at org.apache.hadoop.ozone.om.KeyManagerImpl.checkAccess(KeyManagerImpl.java:1037)
+	at org.apache.hadoop.ozone.security.acl.OzoneNativeAuthorizer.checkAccess(OzoneNativeAuthorizer.java:164)
+	at org.apache.hadoop.ozone.om.OzoneManager.checkAcls(OzoneManager.java:2584)
+	at org.apache.hadoop.ozone.om.OzoneManager.checkAcls(OzoneManager.java:2570)
+	at org.apache.hadoop.ozone.om.OzoneAclUtils.checkAllAcls(OzoneAclUtils.java:128)
+	at org.apache.hadoop.ozone.om.request.OMClientRequest.checkAcls(OMClientRequest.java:360)
+	at org.apache.hadoop.ozone.om.request.OMClientRequest.checkAcls(OMClientRequest.java:215)
+	at org.apache.hadoop.ozone.om.request.key.OMKeyRequest.checkKeyAcls(OMKeyRequest.java:339)
+	at org.apache.hadoop.ozone.om.request.s3.multipart.S3MultipartUploadCommitPartRequest.validateAndUpdateCache(S3MultipartUploadCommitPartRequest.java:138)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerRequestHandler.handleWriteRequest(OzoneManagerRequestHandler.java:311)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.runCommand(OzoneManagerStateMachine.java:533)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.lambda$1(OzoneManagerStateMachine.java:324)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2023-03-23 20:32:29,004 [OM StateMachine ApplyTransaction Thread - 0] ERROR org.apache.hadoop.ozone.om.request.s3.multipart.S3MultipartUploadCommitPartRequest: MultipartUpload Commit is failed for Key:FILE_2022-03-28-13-38-36_10003/_2022-03-28-13-38-45_0.FILE in Volume/Bucket vol-XXX/prod-XXX
+INTERNAL_ERROR org.apache.hadoop.ozone.om.exceptions.OMException: Check access operation failed for key:FILE_2022-03-28-13-38-36_10003/_2022-03-28-13-38-45_0.FILE
+	at org.apache.hadoop.ozone.om.KeyManagerImpl.checkAccess(KeyManagerImpl.java:1083)
+	at org.apache.hadoop.ozone.security.acl.OzoneNativeAuthorizer.checkAccess(OzoneNativeAuthorizer.java:164)
+	at org.apache.hadoop.ozone.om.OzoneManager.checkAcls(OzoneManager.java:2584)
+	at org.apache.hadoop.ozone.om.OzoneManager.checkAcls(OzoneManager.java:2570)
+	at org.apache.hadoop.ozone.om.OzoneAclUtils.checkAllAcls(OzoneAclUtils.java:128)
+	at org.apache.hadoop.ozone.om.request.OMClientRequest.checkAcls(OMClientRequest.java:360)
+	at org.apache.hadoop.ozone.om.request.OMClientRequest.checkAcls(OMClientRequest.java:215)
+	at org.apache.hadoop.ozone.om.request.key.OMKeyRequest.checkKeyAcls(OMKeyRequest.java:339)
+	at org.apache.hadoop.ozone.om.request.s3.multipart.S3MultipartUploadCommitPartRequest.validateAndUpdateCache(S3MultipartUploadCommitPartRequest.java:138)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerRequestHandler.handleWriteRequest(OzoneManagerRequestHandler.java:311)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.runCommand(OzoneManagerStateMachine.java:533)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.lambda$1(OzoneManagerStateMachine.java:324)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Rocks Database is closed
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.assertClose(RocksDatabase.java:395)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.get(RocksDatabase.java:517)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.get(RDBTable.java:110)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.get(RDBTable.java:40)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.getFromTable(TypedTable.java:255)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.get(TypedTable.java:181)
+	at org.apache.hadoop.ozone.om.KeyManagerImpl.checkAccess(KeyManagerImpl.java:1037)
+	... 15 more
+2023-03-23 20:32:29,012 [OMDoubleBufferFlushThread] ERROR org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer: Terminating with exit status 1: During flush to DB encountered error in OMDoubleBuffer flush thread OMDoubleBufferFlushThread
+java.io.IOException: Rocks Database is closed
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase$ColumnFamily.assertClosed(RocksDatabase.java:310)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase$ColumnFamily.batchPut(RocksDatabase.java:293)
+	at org.apache.hadoop.hdds.utils.db.RDBBatchOperation.put(RDBBatchOperation.java:62)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.putWithBatch(RDBTable.java:77)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.putWithBatch(RDBTable.java:40)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.putWithBatch(TypedTable.java:132)
+	at org.apache.hadoop.ozone.om.response.s3.multipart.S3MultipartUploadCommitPartResponse.addToDBBatch(S3MultipartUploadCommitPartResponse.java:149)
+	at org.apache.hadoop.ozone.om.response.s3.multipart.S3MultipartUploadCommitPartResponse.checkAndUpdateDB(S3MultipartUploadCommitPartResponse.java:117)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer.lambda$2(OzoneManagerDoubleBuffer.java:283)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer.addToBatchWithTrace(OzoneManagerDoubleBuffer.java:228)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer.lambda$1(OzoneManagerDoubleBuffer.java:281)
+	at java.util.Iterator.forEachRemaining(Iterator.java:116)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer.flushTransactions(OzoneManagerDoubleBuffer.java:277)
+	at java.lang.Thread.run(Thread.java:745)
+2023-03-23 20:32:29,016 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.OzoneManagerStarter: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down OzoneManager at bigdata-hostxxx.com/10.xx.xx.xx
+************************************************************/
+2023-03-23 20:32:29,016 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.OzoneManager: om3[bigdata-nmg-ozonemaster02.nmg01:9862]: Stopping Ozone Manager
+2023-03-23 20:32:29,017 [shutdown-hook-0] INFO org.apache.hadoop.ipc.Server: Stopping server on 9862
+2023-03-23 20:32:29,021 [IPC Server listener on 9862] INFO org.apache.hadoop.ipc.Server: Stopping IPC Server listener on 9862
+2023-03-23 20:32:29,021 [IPC Server Responder] INFO org.apache.hadoop.ipc.Server: Stopping IPC Server Responder
+2023-03-23 20:32:29,022 [IPC Server handler 19 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 19 on 9862, call Call#4250483 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.52:52118
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,022 [IPC Server handler 30 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 30 on 9862, call Call#4906404 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.38:58642
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,023 [IPC Server handler 66 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 66 on 9862, call Call#4250484 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.52:52118
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,039 [shutdown-hook-0] INFO org.apache.ratis.server.RaftServer: om3: close
+2023-03-23 20:32:29,023 [IPC Server handler 67 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 67 on 9862, call Call#3926058 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.39:43924
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,023 [IPC Server handler 26 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 26 on 9862, call Call#4928960 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.53:51412
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,023 [IPC Server handler 61 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 61 on 9862, call Call#4266358 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.35:46426
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,023 [IPC Server handler 53 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 53 on 9862, call Call#4928959 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.53:51412
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,023 [IPC Server handler 49 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 49 on 9862, call Call#4867070 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.32:57840
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequestToRatis(OzoneManagerRatisServer.java:285)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerRatisServer.submitRequest(OzoneManagerRatisServer.java:247)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequestToRatis(OzoneManagerProtocolServerSideTranslatorPB.java:217)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:198)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,047 [om3-impl-thread2] INFO org.apache.ratis.server.RaftServer$Division: om3@group-197E298202B9: shutdown
+2023-03-23 20:32:29,046 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcService: om3: shutdown server GrpcServerProtocolService now
+2023-03-23 20:32:29,046 [IPC Server handler 61 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 61 on 9862, call Call#4266358 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.35:46426: output error
+2023-03-23 20:32:29,046 [IPC Server handler 26 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 26 on 9862, call Call#4928960 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.53:51412: output error
+2023-03-23 20:32:29,048 [IPC Server handler 49 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 49 on 9862, call Call#4867070 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.32:57840: output error
+2023-03-23 20:32:29,046 [IPC Server handler 67 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 67 on 9862, call Call#3926058 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.39:43924: output error
+2023-03-23 20:32:29,039 [IPC Server handler 30 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 30 on 9862, call Call#4906404 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.38:58642: output error
+2023-03-23 20:32:29,048 [IPC Server handler 49 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 49 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,038 [IPC Server handler 19 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 19 on 9862, call Call#4250483 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.52:52118: output error
+2023-03-23 20:32:29,051 [IPC Server handler 30 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 30 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,048 [om3-impl-thread2] INFO org.apache.ratis.util.JmxRegister: Successfully un-registered JMX Bean with object name Ratis:service=RaftServer,group=group-197E298202B9,id=om3
+2023-03-23 20:32:29,048 [IPC Server handler 67 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 67 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,048 [IPC Server handler 26 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 26 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,048 [IPC Server handler 61 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 61 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,048 [IPC Server handler 53 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 53 on 9862, call Call#4928959 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.53:51412: output error
+2023-03-23 20:32:29,052 [om3-impl-thread2] INFO org.apache.ratis.server.impl.RoleInfo: om3: shutdown om3@group-197E298202B9-LeaderStateImpl
+2023-03-23 20:32:29,053 [IPC Server handler 53 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 53 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,052 [IPC Server handler 66 on 9862] WARN org.apache.hadoop.ipc.Server: IPC Server handler 66 on 9862, call Call#4250484 Retry#0 org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol.submitRequest from xx.xx.126.52:52118: output error
+2023-03-23 20:32:29,052 [IPC Server handler 19 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 19 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,053 [IPC Server handler 66 on 9862] INFO org.apache.hadoop.ipc.Server: IPC Server handler 66 on 9862 caught an exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureWriteOpen(SocketChannelImpl.java:270)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:461)
+	at org.apache.hadoop.ipc.Server.channelWrite(Server.java:3292)
+	at org.apache.hadoop.ipc.Server.access$1700(Server.java:142)
+	at org.apache.hadoop.ipc.Server$Responder.processResponse(Server.java:1483)
+	at org.apache.hadoop.ipc.Server$Responder.doRespond(Server.java:1553)
+	at org.apache.hadoop.ipc.Server$Connection.sendResponse(Server.java:2628)
+	at org.apache.hadoop.ipc.Server$Connection.access$300(Server.java:1625)
+	at org.apache.hadoop.ipc.Server$RpcCall.doResponse(Server.java:950)
+	at org.apache.hadoop.ipc.Server$Call.sendResponse(Server.java:780)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:895)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+2023-03-23 20:32:29,057 [om3-impl-thread2] INFO org.apache.ratis.server.impl.PendingRequests: om3@group-197E298202B9-PendingRequests: sendNotLeaderResponses
+2023-03-23 20:32:29,057 [om3@group-197E298202B9->om2-GrpcLogAppender-LogAppenderDaemon] WARN org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om2-GrpcLogAppender: Wait interrupted by java.lang.InterruptedException
+2023-03-23 20:32:29,057 [om3@group-197E298202B9->om1-GrpcLogAppender-LogAppenderDaemon] WARN org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om1-GrpcLogAppender: Wait interrupted by java.lang.InterruptedException
+2023-03-23 20:32:29,061 [grpc-default-executor-363] INFO org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om2-AppendLogResponseHandler: follower responses appendEntries COMPLETED
+2023-03-23 20:32:29,063 [grpc-default-executor-360] INFO org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om2-AppendLogResponseHandler: follower responses appendEntries COMPLETED
+2023-03-23 20:32:29,064 [grpc-default-executor-364] INFO org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om1-AppendLogResponseHandler: follower responses appendEntries COMPLETED
+2023-03-23 20:32:29,065 [grpc-default-executor-364] INFO org.apache.ratis.server.leader.FollowerInfo: om3@group-197E298202B9->om1: nextIndex: updateUnconditionally 61939741 -> 61939740
+2023-03-23 20:32:29,065 [grpc-default-executor-363] INFO org.apache.ratis.server.leader.FollowerInfo: om3@group-197E298202B9->om2: nextIndex: updateUnconditionally 61939741 -> 61939740
+2023-03-23 20:32:29,065 [grpc-default-executor-360] INFO org.apache.ratis.server.leader.FollowerInfo: om3@group-197E298202B9->om2: nextIndex: updateUnconditionally 61939740 -> 61939739
+2023-03-23 20:32:29,065 [grpc-default-executor-365] INFO org.apache.ratis.grpc.server.GrpcLogAppender: om3@group-197E298202B9->om1-AppendLogResponseHandler: follower responses appendEntries COMPLETED
+2023-03-23 20:32:29,065 [grpc-default-executor-365] INFO org.apache.ratis.server.leader.FollowerInfo: om3@group-197E298202B9->om1: nextIndex: updateUnconditionally 61939740 -> 61939739
+2023-03-23 20:32:29,065 [om3-impl-thread2] INFO org.apache.ratis.server.impl.StateMachineUpdater: om3@group-197E298202B9-StateMachineUpdater: set stopIndex = 61939740
+2023-03-23 20:32:29,067 [om3@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Current Snapshot Index (t:113, i:61939543)
+2023-03-23 20:32:29,067 [om3@group-197E298202B9-StateMachineUpdater] ERROR org.apache.ratis.server.impl.StateMachineUpdater: om3@group-197E298202B9-StateMachineUpdater: Failed to take snapshot
+java.io.IOException: Rocks Database is closed
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.assertClose(RocksDatabase.java:395)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.put(RocksDatabase.java:418)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.put(RDBTable.java:70)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.put(RDBTable.java:40)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.put(TypedTable.java:124)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.takeSnapshot(OzoneManagerStateMachine.java:455)
+	at org.apache.ratis.server.impl.StateMachineUpdater.takeSnapshot(StateMachineUpdater.java:270)
+	at org.apache.ratis.server.impl.StateMachineUpdater.checkAndTakeSnapshot(StateMachineUpdater.java:262)
+	at org.apache.ratis.server.impl.StateMachineUpdater.run(StateMachineUpdater.java:183)
+	at java.lang.Thread.run(Thread.java:745)
+2023-03-23 20:32:29,068 [om3@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Current Snapshot Index (t:113, i:61939543)
+2023-03-23 20:32:29,068 [om3@group-197E298202B9-StateMachineUpdater] ERROR org.apache.ratis.server.impl.StateMachineUpdater: om3@group-197E298202B9-StateMachineUpdater: Failed to take snapshot
+java.io.IOException: Rocks Database is closed
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.assertClose(RocksDatabase.java:395)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.put(RocksDatabase.java:418)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.put(RDBTable.java:70)
+	at org.apache.hadoop.hdds.utils.db.RDBTable.put(RDBTable.java:40)
+	at org.apache.hadoop.hdds.utils.db.TypedTable.put(TypedTable.java:124)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.takeSnapshot(OzoneManagerStateMachine.java:455)
+	at org.apache.ratis.server.impl.StateMachineUpdater.takeSnapshot(StateMachineUpdater.java:270)
+	at org.apache.ratis.server.impl.StateMachineUpdater.checkAndTakeSnapshot(StateMachineUpdater.java:262)
+	at org.apache.ratis.server.impl.StateMachineUpdater.run(StateMachineUpdater.java:186)
+	at java.lang.Thread.run(Thread.java:745)
+2023-03-23 20:32:29,068 [om3@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: StateMachine has shutdown. Shutdown OzoneManager if not already shutdown.
+2023-03-23 20:32:29,068 [om3@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer: Stopping OMDoubleBuffer flush thread
+2023-03-23 20:32:29,073 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcServerProtocolClient: om1 Close channels
+2023-03-23 20:32:29,078 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcServerProtocolClient: om2 Close channels
+2023-03-23 20:32:29,080 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcService: om3: shutdown server GrpcServerProtocolService successfully
+2023-03-23 20:32:29,107 [OM StateMachine ApplyTransaction Thread - 0] ERROR org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Terminating with exit status 1: OM Ratis Server has received unrecoverable error, to avoid further DB corruption, terminating OM. Error Response received is:cmdType: CommitMultiPartUpload
+traceID: ""
+success: false
+message: "Check access operation failed for key:FILE_2022-03-28-13-38-36_10003/_2022-03-28-13-38-45_0.FILE"
+status: INTERNAL_ERROR
+
+INTERNAL_ERROR org.apache.hadoop.ozone.om.exceptions.OMException: Check access operation failed for key:FILE_2022-03-28-13-38-36_10003/_2022-03-28-13-38-45_0.FILE
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.terminate(OzoneManagerStateMachine.java:365)
+	at org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine.lambda$2(OzoneManagerStateMachine.java:340)
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2023-03-23 20:32:32,887 [IPC Server handler 63 on 9862] ERROR org.apache.hadoop.hdds.utils.db.RDBStore: Unable to get delta updates since sequenceNumber 71774656. This exception will not be thrown to the client 
+java.io.IOException: RocksDatabase[/data/ozonedata/om/db/om.db]: Failed to getUpdatesSince 71774656; status : IOError(Undefined); message : while stat a file for size: /data/ozonedata/om/db/om.db/098326.log: No such file or directory
+	at org.apache.hadoop.hdds.utils.HddsServerUtil.toIOException(HddsServerUtil.java:586)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.toIOException(RocksDatabase.java:75)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.getUpdatesSince(RocksDatabase.java:601)
+	at org.apache.hadoop.hdds.utils.db.RDBStore.getUpdatesSince(RDBStore.java:294)
+	at org.apache.hadoop.ozone.om.OzoneManager.getDBUpdates(OzoneManager.java:4171)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerRequestHandler.getOMDBUpdates(OzoneManagerRequestHandler.java:328)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerRequestHandler.handleReadRequest(OzoneManagerRequestHandler.java:226)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitReadRequestToOM(OzoneManagerProtocolServerSideTranslatorPB.java:226)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.processRequest(OzoneManagerProtocolServerSideTranslatorPB.java:175)
+	at org.apache.hadoop.hdds.server.OzoneProtocolMessageDispatcher.processRequest(OzoneProtocolMessageDispatcher.java:87)
+	at org.apache.hadoop.ozone.protocolPB.OzoneManagerProtocolServerSideTranslatorPB.submitRequest(OzoneManagerProtocolServerSideTranslatorPB.java:147)
+	at org.apache.hadoop.ozone.protocol.proto.OzoneManagerProtocolProtos$OzoneManagerService$2.callBlockingMethod(OzoneManagerProtocolProtos.java)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker.call(ProtobufRpcEngine.java:524)
+	at org.apache.hadoop.ipc.RPC$Server.call(RPC.java:1025)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:886)
+	at org.apache.hadoop.ipc.Server$RpcCall.run(Server.java:828)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1903)
+	at org.apache.hadoop.ipc.Server$Handler.run(Server.java:2716)
+Caused by: org.rocksdb.RocksDBException: while stat a file for size: /data/ozonedata/om/db/om.db/098326.log: No such file or directory
+	at org.rocksdb.RocksDB.getUpdatesSince(Native Method)
+	at org.rocksdb.RocksDB.getUpdatesSince(RocksDB.java:3966)
+	at org.apache.hadoop.hdds.utils.db.RocksDatabase.getUpdatesSince(RocksDatabase.java:598)
+	... 17 more
+2023-03-23 20:33:18,139 [main] INFO org.apache.hadoop.ozone.om.OzoneManagerStarter: STARTUP_MSG: 
+/************************************************************
