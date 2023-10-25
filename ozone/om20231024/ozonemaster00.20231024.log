@@ -1,0 +1,290 @@
+2023-10-24 11:35:03,698 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:03,698 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:08,750 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:08,750 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:13,813 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:13,813 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:18,856 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:18,856 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:23,977 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:23,977 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:29,108 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:29,108 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:34,189 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:34,189 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:39,274 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:39,275 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:44,375 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:44,375 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:49,475 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:49,475 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:54,544 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:54,544 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:35:59,553 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:35:59,553 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:04,690 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:04,690 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:09,817 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:09,817 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:14,946 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:14,946 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:19,979 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:19,979 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:25,103 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:25,103 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:30,231 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:30,231 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:35,397 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:35,397 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:40,473 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:40,473 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:45,598 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:45,598 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:50,670 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:50,670 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:36:55,719 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:36:55,719 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:00,822 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:00,822 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:05,943 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:05,943 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:11,113 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:11,113 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:16,163 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:16,163 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:21,294 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:21,294 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:26,357 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:26,357 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:31,402 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:31,402 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:36,523 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:36,523 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:41,591 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:41,591 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:46,612 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:46,612 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:51,637 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:51,637 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:37:56,694 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.min = 5s (fallback to raft.server.rpc.timeout.min)
+2023-10-24 11:37:56,694 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.RaftServerConfigKeys: raft.server.rpc.first-election.timeout.max = 5200ms (fallback to raft.server.rpc.timeout.max)
+2023-10-24 11:38:01,197 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: receive requestVote(PRE_VOTE, om3, group-197E298202B9, 5, (t:5, i:405823932))
+2023-10-24 11:38:01,200 [grpc-default-executor-1375] INFO org.apache.ratis.server.impl.VoteContext: om1@group-197E298202B9-FOLLOWER: accept PRE_VOTE from om3: our priority 0 <= candidate's priority 0
+2023-10-24 11:38:01,202 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9 replies to PRE_VOTE vote request: om3<-om1#0:OK-t5. Peer's state: om1@group-197E298202B9:t5, leader=om2, voted=null, raftlog=Memoized:om1@group-197E298202B9-SegmentedRaftLog:OPENED:c405823932, conf=204968124: peers:[om1|rpc:bigdata-xxx-ozonemaster00.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om3|rpc:bigdata-xxx-ozonemaster02.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om2|rpc:bigdata-xxx-ozonemaster01.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER]|listeners:[], old=null
+2023-10-24 11:38:01,215 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: receive requestVote(ELECTION, om3, group-197E298202B9, 6, (t:5, i:405823932))
+2023-10-24 11:38:01,215 [grpc-default-executor-1375] INFO org.apache.ratis.server.impl.VoteContext: om1@group-197E298202B9-FOLLOWER: accept ELECTION from om3: our priority 0 <= candidate's priority 0
+2023-10-24 11:38:01,216 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: change Leader from om2 to null at term 6 for updateCurrentTerm
+2023-10-24 11:38:01,216 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: changes role from  FOLLOWER to FOLLOWER at term 6 for candidate:om3
+2023-10-24 11:38:01,216 [grpc-default-executor-1375] INFO org.apache.ratis.server.impl.RoleInfo: om1: shutdown om1@group-197E298202B9-FollowerState
+2023-10-24 11:38:01,216 [grpc-default-executor-1375] INFO org.apache.ratis.server.impl.RoleInfo: om1: start om1@group-197E298202B9-FollowerState
+2023-10-24 11:38:01,216 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.impl.FollowerState: om1@group-197E298202B9-FollowerState was interrupted
+2023-10-24 11:38:01,219 [grpc-default-executor-1375] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9 replies to ELECTION vote request: om3<-om1#0:OK-t6. Peer's state: om1@group-197E298202B9:t6, leader=null, voted=om3, raftlog=Memoized:om1@group-197E298202B9-SegmentedRaftLog:OPENED:c405823932, conf=204968124: peers:[om1|rpc:bigdata-xxx-ozonemaster00.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om3|rpc:bigdata-xxx-ozonemaster02.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om2|rpc:bigdata-xxx-ozonemaster01.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER]|listeners:[], old=null
+2023-10-24 11:38:01,310 [om1-server-thread7003] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: change Leader from null to om3 at term 6 for appendEntries, leader elected after 93ms
+2023-10-24 11:38:01,312 [om1-server-thread7003] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: set configuration 405823933: peers:[om1|rpc:bigdata-xxx-ozonemaster00.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om3|rpc:bigdata-xxx-ozonemaster02.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER, om2|rpc:bigdata-xxx-ozonemaster01.xxx01:9872|admin:|client:|dataStream:|priority:0|startupRole:FOLLOWER]|listeners:[], old=null
+2023-10-24 11:38:01,312 [om1-server-thread7003] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om1@group-197E298202B9-SegmentedRaftLogWorker: Rolling segment log-405807242_405823932 to index:405823932
+2023-10-24 11:38:01,313 [om1@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om1@group-197E298202B9-SegmentedRaftLogWorker: Rolled log segment from /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_405807242 to /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_405807242-405823932
+2023-10-24 11:38:01,321 [om1@group-197E298202B9-SegmentedRaftLogWorker] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om1@group-197E298202B9-SegmentedRaftLogWorker: created new log segment /data/ozonedata/om/ratis/e961d78e-fe7e-32f2-a53f-197e298202b9/current/log_inprogress_405823933
+2023-10-24 11:38:01,335 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Received Configuration change notification from Ratis. New Peer list:
+2023-10-24 11:40:08,560 [grpc-default-executor-1375] INFO org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: Completed APPEND_ENTRIES, lastRequest: null
+2023-10-24 11:40:08,560 [grpc-default-executor-1379] INFO org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: Completed APPEND_ENTRIES, lastRequest: om2->om1#187882219-t5,previous=(t:5, i:405823931),leaderCommit=405823931,initializing? false,entries: size=1, first=(t:5, i:405823932), METADATAENTRY(c:405823931)
+2023-10-24 11:40:08,561 [grpc-default-executor-1379] INFO org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: Completed APPEND_ENTRIES, lastReply: null
+2023-10-24 11:40:08,563 [grpc-default-executor-1375] INFO org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: Completed APPEND_ENTRIES, lastReply: serverReply {
+2023-10-24 11:54:54,601 [OmRpcReader-26] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:54:56,618 [OmRpcReader-29] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:54:58,628 [OmRpcReader-0] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:00,637 [OmRpcReader-3] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:02,645 [OmRpcReader-6] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:04,655 [OmRpcReader-10] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:06,665 [OmRpcReader-12] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:08,674 [OmRpcReader-15] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:10,683 [OmRpcReader-18] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:12,691 [OmRpcReader-21] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:14,699 [OmRpcReader-24] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:16,707 [OmRpcReader-27] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:18,716 [OmRpcReader-30] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:20,725 [OmRpcReader-1] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:22,732 [OmRpcReader-4] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:24,757 [OmRpcReader-7] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:26,766 [OmRpcReader-9] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:28,784 [OmRpcReader-13] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:30,791 [OmRpcReader-16] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:32,802 [OmRpcReader-19] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:34,808 [OmRpcReader-22] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:36,815 [OmRpcReader-25] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:38,823 [OmRpcReader-28] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:40,830 [OmRpcReader-31] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:42,837 [OmRpcReader-2] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:44,847 [OmRpcReader-5] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:46,854 [OmRpcReader-8] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:48,861 [OmRpcReader-11] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:50,867 [OmRpcReader-14] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:52,873 [OmRpcReader-17] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:53,127 [OmRpcReader-20] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:54,882 [OmRpcReader-23] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:55,138 [OmRpcReader-26] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:56,891 [OmRpcReader-29] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:57,150 [OmRpcReader-0] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:58,900 [OmRpcReader-3] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:55:59,158 [OmRpcReader-6] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:00,911 [OmRpcReader-10] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:01,167 [OmRpcReader-12] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:02,921 [OmRpcReader-15] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:03,175 [OmRpcReader-18] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:04,931 [OmRpcReader-21] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:05,183 [OmRpcReader-24] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:06,941 [OmRpcReader-27] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:07,195 [OmRpcReader-30] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:08,950 [OmRpcReader-1] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:09,202 [OmRpcReader-4] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:10,958 [OmRpcReader-7] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:11,210 [OmRpcReader-9] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:12,966 [OmRpcReader-13] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:13,218 [OmRpcReader-16] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:14,974 [OmRpcReader-19] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:15,226 [OmRpcReader-22] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:16,982 [OmRpcReader-25] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:17,242 [OmRpcReader-28] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:18,679 [Socket Reader #1 for port 9862] INFO org.apache.hadoop.ipc.Server: Connection from bigdata-xxx-client01.xxx01.xxx.com:55116 / 10.xx.xx.36:55116 for protocol org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol is unauthorized for user hadoop (auth:SIMPLE)
+2023-10-24 11:56:18,990 [OmRpcReader-31] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:19,249 [OmRpcReader-2] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:20,999 [OmRpcReader-5] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:21,256 [OmRpcReader-8] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:23,007 [OmRpcReader-11] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:23,262 [OmRpcReader-14] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:25,015 [OmRpcReader-17] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:25,270 [OmRpcReader-20] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:27,023 [OmRpcReader-23] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:27,277 [OmRpcReader-26] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:29,031 [OmRpcReader-29] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:29,285 [OmRpcReader-0] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:31,040 [OmRpcReader-3] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:31,292 [OmRpcReader-6] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:33,048 [OmRpcReader-10] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:33,299 [OmRpcReader-12] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:35,056 [OmRpcReader-15] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:35,265 [Socket Reader #1 for port 9862] INFO org.apache.hadoop.ipc.Server: Connection from bigdata-xxx-client01.xxx01.xxx.com:55694 / 10.xx.xx.36:55694 for protocol org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol is unauthorized for user hadoop (auth:SIMPLE)
+2023-10-24 11:56:35,307 [OmRpcReader-18] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:37,063 [OmRpcReader-21] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:37,316 [OmRpcReader-24] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:39,071 [OmRpcReader-27] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:39,323 [OmRpcReader-30] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:41,079 [OmRpcReader-1] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:41,333 [OmRpcReader-4] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:43,086 [OmRpcReader-7] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:43,340 [OmRpcReader-9] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:45,094 [OmRpcReader-13] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:45,347 [OmRpcReader-16] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:47,101 [OmRpcReader-19] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:47,353 [OmRpcReader-22] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:49,107 [OmRpcReader-25] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:49,360 [OmRpcReader-28] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:51,114 [OmRpcReader-31] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:51,366 [OmRpcReader-2] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:53,122 [OmRpcReader-5] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:53,372 [OmRpcReader-8] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:53,501 [OmRpcReader-11] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:55,129 [OmRpcReader-14] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:55,380 [OmRpcReader-17] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:55,508 [OmRpcReader-20] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:57,137 [OmRpcReader-23] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:57,387 [OmRpcReader-26] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:57,514 [OmRpcReader-29] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:59,144 [OmRpcReader-0] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:59,394 [OmRpcReader-3] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:56:59,522 [OmRpcReader-6] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:01,152 [OmRpcReader-10] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:01,403 [OmRpcReader-12] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:01,528 [OmRpcReader-15] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:03,159 [OmRpcReader-18] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:03,410 [OmRpcReader-21] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:03,535 [OmRpcReader-24] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:05,167 [OmRpcReader-27] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:05,418 [OmRpcReader-30] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:05,541 [OmRpcReader-1] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:07,174 [OmRpcReader-4] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:07,429 [OmRpcReader-7] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:07,547 [OmRpcReader-9] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:09,182 [OmRpcReader-13] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:09,435 [OmRpcReader-16] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:09,554 [OmRpcReader-19] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:11,188 [OmRpcReader-22] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:11,442 [OmRpcReader-25] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:11,560 [OmRpcReader-28] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:13,195 [OmRpcReader-31] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:13,448 [OmRpcReader-2] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:13,566 [OmRpcReader-5] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:15,203 [OmRpcReader-8] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:15,454 [OmRpcReader-11] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:15,572 [OmRpcReader-14] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:17,210 [OmRpcReader-17] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:17,460 [OmRpcReader-20] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:17,579 [OmRpcReader-23] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:19,219 [OmRpcReader-26] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:19,467 [OmRpcReader-29] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:19,585 [OmRpcReader-0] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:57:21,227 [OmRpcReader-3] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 11:59:57,921 [Socket Reader #1 for port 9862] INFO org.apache.hadoop.ipc.Server: Connection from bigdata-xxx-client01.xxx01.xxx.com:34060 / 10.xx.xx.36:34060 for protocol org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol is unauthorized for user hadoop (auth:SIMPLE)
+2023-10-24 12:03:05,171 [Socket Reader #1 for port 9862] INFO org.apache.hadoop.ipc.Server: Connection from bigdata-xxx-client01.xxx01.xxx.com:40240 / 10.xx.xx.36:40240 for protocol org.apache.hadoop.ozone.om.protocol.OzoneManagerProtocol is unauthorized for user hadoop (auth:SIMPLE)
+2023-10-24 12:06:31,724 [OmRpcReader-6] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 12:06:31,739 [OmRpcReader-10] ERROR org.apache.hadoop.ozone.om.OzoneManagerServiceGrpc: Failed to submit request
+2023-10-24 12:06:32,265 [SIGTERM handler] ERROR org.apache.hadoop.ozone.om.OzoneManagerStarter: RECEIVED SIGNAL 15: SIGTERM
+2023-10-24 12:06:32,267 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.OzoneManagerStarter: SHUTDOWN_MSG: 
+2023-10-24 12:06:32,268 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.OzoneManager: om1[bigdata-xxx-ozonemaster00.xxx01:9862]: Stopping Ozone Manager
+2023-10-24 12:06:32,269 [shutdown-hook-0] INFO org.apache.hadoop.ipc.Server: Stopping server on 9862
+2023-10-24 12:06:32,277 [IPC Server Responder] INFO org.apache.hadoop.ipc.Server: Stopping IPC Server Responder
+2023-10-24 12:06:32,277 [IPC Server listener on 9862] INFO org.apache.hadoop.ipc.Server: Stopping IPC Server listener on 9862
+2023-10-24 12:06:36,324 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.GrpcOzoneManagerServer: Server GrpcOzoneManagerServer is shutdown
+2023-10-24 12:06:36,326 [shutdown-hook-0] INFO org.apache.ratis.server.RaftServer: om1: close
+2023-10-24 12:06:36,327 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcService: om1: shutdown server GrpcServerProtocolService now
+2023-10-24 12:06:36,327 [om1-impl-thread2] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: shutdown
+2023-10-24 12:06:36,327 [om1-impl-thread2] INFO org.apache.ratis.util.JmxRegister: Successfully un-registered JMX Bean with object name Ratis:service=RaftServer,group=group-197E298202B9,id=om1
+2023-10-24 12:06:36,327 [om1-impl-thread2] INFO org.apache.ratis.server.impl.RoleInfo: om1: shutdown om1@group-197E298202B9-FollowerState
+2023-10-24 12:06:36,327 [om1-impl-thread2] INFO org.apache.ratis.server.impl.StateMachineUpdater: om1@group-197E298202B9-StateMachineUpdater: set stopIndex = 405823934
+2023-10-24 12:06:36,327 [om1@group-197E298202B9-FollowerState] INFO org.apache.ratis.server.impl.FollowerState: om1@group-197E298202B9-FollowerState was interrupted
+2023-10-24 12:06:36,328 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Current Snapshot Index (t:5, i:206114616)
+2023-10-24 12:06:36,343 [shutdown-hook-0] INFO org.apache.ratis.grpc.server.GrpcService: om1: shutdown server GrpcServerProtocolService successfully
+2023-10-24 12:06:36,344 [grpc-default-executor-1382] WARN org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: APPEND_ENTRIES onError, lastRequest: null: org.apache.ratis.thirdparty.io.grpc.StatusRuntimeException: CANCELLED: client cancelled
+2023-10-24 12:06:36,344 [grpc-default-executor-1380] WARN org.apache.ratis.grpc.server.GrpcServerProtocolService: om1: APPEND_ENTRIES onError, lastRequest: om3->om1#2-t6,previous=(t:6, i:405823933),leaderCommit=405823933,initializing? true,entries: size=1, first=(t:6, i:405823934), METADATAENTRY(c:405823933): org.apache.ratis.thirdparty.io.grpc.StatusRuntimeException: CANCELLED: client cancelled
+2023-10-24 12:06:41,464 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.ratis.server.impl.StateMachineUpdater: om1@group-197E298202B9-StateMachineUpdater: Took a snapshot at index 206114616
+2023-10-24 12:06:41,464 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.ratis.server.impl.StateMachineUpdater: om1@group-197E298202B9-StateMachineUpdater: snapshotIndex: updateIncreasingly 205768125 -> 206114616
+2023-10-24 12:06:41,464 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: Current Snapshot Index (t:5, i:206114616)
+2023-10-24 12:06:41,470 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.ratis.server.impl.StateMachineUpdater: om1@group-197E298202B9-StateMachineUpdater: Took a snapshot at index 206114616
+2023-10-24 12:06:41,470 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: StateMachine has shutdown. Shutdown OzoneManager if not already shutdown.
+2023-10-24 12:06:41,470 [om1@group-197E298202B9-StateMachineUpdater] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer: Stopping OMDoubleBuffer flush thread
+2023-10-24 12:06:41,470 [OMDoubleBufferFlushThread] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer: OMDoubleBuffer flush thread OMDoubleBufferFlushThread is interrupted and will exit.
+2023-10-24 12:06:41,472 [om1-impl-thread2] INFO org.apache.ratis.server.RaftServer$Division: om1@group-197E298202B9: closes. applyIndex: 206114616
+2023-10-24 12:06:43,533 [om1-impl-thread2] INFO org.apache.ratis.server.raftlog.segmented.SegmentedRaftLogWorker: om1@group-197E298202B9-SegmentedRaftLogWorker close()
+2023-10-24 12:06:43,536 [JvmPauseMonitor0] INFO org.apache.ratis.util.JvmPauseMonitor: JvmPauseMonitor-om1: Stopped
+2023-10-24 12:06:43,536 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerStateMachine: StateMachine has shutdown. Shutdown OzoneManager if not already shutdown.
+2023-10-24 12:06:43,536 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.ratis.OzoneManagerDoubleBuffer: OMDoubleBuffer flush thread is not running.
+2023-10-24 12:06:43,536 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service KeyDeletingService
+2023-10-24 12:06:43,536 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service KeyDeletingService
+2023-10-24 12:06:43,536 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service OpenKeyCleanupService
+2023-10-24 12:06:43,537 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service SstFilteringService
+2023-10-24 12:06:43,537 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service SnapshotDeletingService
+2023-10-24 12:06:43,537 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service MultipartUploadCleanupService
+2023-10-24 12:06:43,549 [shutdown-hook-0] INFO org.eclipse.jetty.server.handler.ContextHandler: Stopped o.e.j.w.WebAppContext@539c4830{ozoneManager,/,null,STOPPED}{jar:file:/home/hadoop/ozone-om-1.4.0-001/share/ozone/lib/ozone-manager-1.4.0-001.jar!/webapps/ozoneManager}
+2023-10-24 12:06:43,553 [shutdown-hook-0] INFO org.eclipse.jetty.server.AbstractConnector: Stopped ServerConnector@35025a0a{HTTP/1.1, (http/1.1)}{0.0.0.0:9874}
+2023-10-24 12:06:43,554 [shutdown-hook-0] INFO org.eclipse.jetty.server.session: node0 Stopped scavenging
+2023-10-24 12:06:43,554 [shutdown-hook-0] INFO org.eclipse.jetty.server.handler.ContextHandler: Stopped o.e.j.s.ServletContextHandler@20440c6c{static,/static,jar:file:/home/hadoop/ozone-om-1.4.0-001/share/ozone/lib/ozone-manager-1.4.0-001.jar!/webapps/static,STOPPED}
+2023-10-24 12:06:43,555 [shutdown-hook-0] INFO org.eclipse.jetty.server.handler.ContextHandler: Stopped o.e.j.s.ServletContextHandler@3e856100{logs,/logs,file:///home/hadoop/cluster-data/logs/,STOPPED}
+2023-10-24 12:06:43,558 [shutdown-hook-0] INFO org.apache.ozone.rocksdiff.RocksDBCheckpointDiffer: Shutting down CompactionDagPruningService.
+2023-10-24 12:06:43,773 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.snapshot.SnapshotDiffManager: Shutting down executorService: 'SnapDiffExecutor'
+2023-10-24 12:06:43,773 [shutdown-hook-0] INFO org.apache.hadoop.ozone.om.snapshot.SnapshotDiffManager: Shutting down executorService: 'SstDumpToolExecutor'
+2023-10-24 12:06:43,774 [shutdown-hook-0] INFO org.apache.hadoop.hdds.utils.BackgroundService: Shutting down service SnapshotDiffCleanupService
+2023-10-24 12:16:15,744 [main] INFO org.apache.hadoop.ozone.om.OzoneManagerStarter: STARTUP_MSG: 
+2023-10-24 12:16:15,752 [main] INFO org.apache.hadoop.ozone.om.OzoneManagerStarter: registered UNIX signal handlers for [TERM, HUP, INT]
+2023-10-24 12:16:16,337 [main] INFO org.apache.hadoop.ozone.audit.AuditLogger: Refresh DebugCmdSet for OMAudit to [].
+2023-10-24 12:16:16,564 [main] INFO org.apache.hadoop.ozone.om.ha.OMHANodeDetails: ozone.om.internal.service.id is not defined, falling back to ozone.om.service.ids to find serviceID for OzoneManager if it is HA enabled cluster
+2023-10-24 12:16:16,588 [main] INFO org.apache.hadoop.ozone.om.ha.OMHANodeDetails: Found matching OM address with OMServiceId: DOzoneNmg, OMNodeId: om1, RPC Address: bigdata-xxx-ozonemaster00.xxx01:9862 and Ratis port: 9872
+2023-10-24 12:16:16,588 [main] INFO org.apache.hadoop.ozone.om.ha.OMHANodeDetails: Setting configuration key ozone.om.address with value of key ozone.om.address.DOzoneNmg.om1: bigdata-xxx-ozonemaster00.xxx01
+2023-10-24 12:16:16,622 [main] INFO org.apache.hadoop.ozone.upgrade.AbstractLayoutVersionManager: Initializing Layout version manager with metadata layout = QUOTA (version = 6), software layout = QUOTA (version = 6)
+2023-10-24 12:16:16,853 [main] INFO org.reflections.Reflections: Reflections took 194 ms to scan 1 urls, producing 140 keys and 411 values [using 96 cores]
+2023-10-24 12:16:16,870 [main] INFO org.apache.hadoop.ozone.om.upgrade.OMLayoutVersionManager: Skipping Upgrade Action QuotaRepairUpgradeAction since it has been finalized.
+2023-10-24 12:16:16,944 [main] INFO org.apache.hadoop.hdds.security.ConfigurationBasedGroupsMapping: Loading new group mapping file: /home/hadoop/om-current/etc/hadoop/user2groups.txt
+2023-10-24 12:16:16,945 [main] INFO org.apache.hadoop.hdds.security.ConfigurationBasedGroupsMapping: Loaded 323 users from new group mapping file: /home/hadoop/om-current/etc/hadoop/user2groups.txt
+2023-10-24 12:16:17,089 [main] INFO org.apache.hadoop.hdds.scm.proxy.SCMBlockLocationFailoverProxyProvider: Created block location fail-over proxy with 3 nodes: [nodeId=scm2,nodeAddress=bigdata-xxx-ozonemaster01.xxx01/10.xx.xx.44:9863, nodeId=scm1,nodeAddress=bigdata-xxx-ozonemaster00.xxx01/10.xx.xx.23:9863, nodeId=scm3,nodeAddress=bigdata-xxx-ozonemaster02.xxx01/10.xx.xx.34:9863]
+2023-10-24 12:16:17,134 [main] INFO org.apache.hadoop.hdds.scm.proxy.SCMBlockLocationFailoverProxyProvider: Created block location fail-over proxy with 3 nodes: [nodeId=scm2,nodeAddress=bigdata-xxx-ozonemaster01.xxx01/10.xx.xx.44:9863, nodeId=scm1,nodeAddress=bigdata-xxx-ozonemaster00.xxx01/10.xx.xx.23:9863, nodeId=scm3,nodeAddress=bigdata-xxx-ozonemaster02.xxx01/10.xx.xx.34:9863]
+2023-10-24 12:16:17,612 [main] INFO org.apache.hadoop.ozone.om.OzoneManager: OM start with adminUsers: [hadoop, bigdata, xxx, xxx, xxx]
+2023-10-24 12:16:17,799 [main] INFO org.apache.hadoop.ozone.om.helpers.OmKeyInfo: OmKeyInfo.getCodec ignorePipeline = true
+2023-10-24 12:16:17,860 [main] INFO org.apache.hadoop.hdds.utils.db.DBStoreBuilder: Using RocksDB DBOptions from om.db.ini file
