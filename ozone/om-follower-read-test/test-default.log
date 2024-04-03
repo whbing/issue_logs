@@ -1,0 +1,145 @@
+=================ozone.om.ratis.server.read.option=DEFAULT=================
+2024-04-02 16:36:53
+ozone freon ockrw -r 1000000 -t 100 --linear --contiguous --duration 120s --size 4096 -v s3v -b test-follower-read -p followerReadTest
+ 100.00% |█████████████████████████████████████████████████████████████████████████████████████████████████████|  120/120 Time: 0:02:00|
+4/2/24 4:38:57 PM ==============================================================
+
+-- Timers ----------------------------------------------------------------------
+key-read-write-list
+             count = 314998
+         mean rate = 2610.29 calls/second
+     1-minute rate = 2350.92 calls/second
+     5-minute rate = 1074.02 calls/second
+    15-minute rate = 593.59 calls/second
+               min = 9.23 milliseconds
+               max = 478.93 milliseconds
+              mean = 36.69 milliseconds
+            stddev = 32.86 milliseconds
+            median = 29.57 milliseconds
+              75% <= 34.58 milliseconds
+              95% <= 67.16 milliseconds
+              98% <= 87.52 milliseconds
+              99% <= 216.97 milliseconds
+            99.9% <= 478.93 milliseconds
+
+
+Total execution time (sec): 122
+Failures: 0
+Successful executions: 314998
+
+
+2024-04-02 16:45:00
+ozone freon ockrw -r 300000 -t 100 --linear --contiguous --percentage-read 101 --read-metadata-only=false --duration 180s --size 4096 -v s3v -b test-follower-read -p followerReadTest
+ 100.00% |█████████████████████████████████████████████████████████████████████████████████████████████████████|  180/180 Time: 0:03:00|
+4/2/24 4:48:03 PM ==============================================================
+
+-- Timers ----------------------------------------------------------------------
+key-read-write-list
+             count = 4010461
+         mean rate = 22369.54 calls/second
+     1-minute rate = 22173.61 calls/second
+     5-minute rate = 12960.39 calls/second
+    15-minute rate = 8317.27 calls/second
+               min = 1.33 milliseconds
+               max = 89.72 milliseconds
+              mean = 4.03 milliseconds
+            stddev = 2.24 milliseconds
+            median = 3.71 milliseconds
+              75% <= 5.03 milliseconds
+              95% <= 7.34 milliseconds
+              98% <= 7.84 milliseconds
+              99% <= 8.49 milliseconds
+            99.9% <= 9.42 milliseconds
+
+
+Total execution time (sec): 181
+Failures: 0
+Successful executions: 4010461
+
+
+2024-04-02 16:48:41
+ozone freon ockrw -r 300000 -t 100 --linear --contiguous --percentage-read 50 --read-metadata-only=false --duration 180s --size 4096 -v s3v -b test-follower-read -p followerReadTest
+ 100.00% |█████████████████████████████████████████████████████████████████████████████████████████████████████|  180/180 Time: 0:03:00|
+4/2/24 4:51:45 PM ==============================================================
+
+-- Timers ----------------------------------------------------------------------
+key-read-write-list
+             count = 692699
+         mean rate = 3835.95 calls/second
+     1-minute rate = 3701.82 calls/second
+     5-minute rate = 2009.90 calls/second
+    15-minute rate = 1092.44 calls/second
+               min = 1.10 milliseconds
+               max = 922.86 milliseconds
+              mean = 25.65 milliseconds
+            stddev = 45.97 milliseconds
+            median = 12.83 milliseconds
+              75% <= 42.35 milliseconds
+              95% <= 50.32 milliseconds
+              98% <= 77.18 milliseconds
+              99% <= 98.96 milliseconds
+            99.9% <= 922.86 milliseconds
+
+
+Total execution time (sec): 182
+Failures: 0
+Successful executions: 692699
+
+
+2024-04-02 16:53:11
+ozone freon ockrw -r 300000 -t 100 --linear --contiguous --percentage-read 101 --read-metadata-only=true --duration 180s --size 4096 -v s3v -b test-follower-read -p followerReadTest
+ 100.00% |█████████████████████████████████████████████████████████████████████████████████████████████████████|  180/180 Time: 0:03:00|
+4/2/24 4:56:13 PM ==============================================================
+
+-- Timers ----------------------------------------------------------------------
+key-read-write-list
+             count = 5479894
+         mean rate = 30666.92 calls/second
+     1-minute rate = 31166.39 calls/second
+     5-minute rate = 29388.73 calls/second
+    15-minute rate = 28655.89 calls/second
+               min = 0.54 milliseconds
+               max = 772.74 milliseconds
+              mean = 3.32 milliseconds
+            stddev = 17.66 milliseconds
+            median = 2.88 milliseconds
+              75% <= 3.70 milliseconds
+              95% <= 6.20 milliseconds
+              98% <= 6.89 milliseconds
+              99% <= 7.92 milliseconds
+            99.9% <= 59.19 milliseconds
+
+
+Total execution time (sec): 180
+Failures: 0
+Successful executions: 5479894
+
+
+2024-04-02 16:56:53
+ozone freon ockrw -r 300000 -t 100 --linear --contiguous --percentage-read 50 --read-metadata-only=true --duration 180s --size 4096 -v s3v -b test-follower-read-linear -p followerReadTest
+ 100.00% |█████████████████████████████████████████████████████████████████████████████████████████████████████|  180/180 Time: 0:03:00|
+4/2/24 16:59:56 PM ==============================================================
+
+-- Timers ----------------------------------------------------------------------
+key-read-write-list
+             count = 709777
+         mean rate = 3945.74 calls/second
+     1-minute rate = 3925.34 calls/second
+     5-minute rate = 2111.30 calls/second
+    15-minute rate = 1203.34 calls/second
+               min = 0.57 milliseconds
+               max = 296.24 milliseconds
+              mean = 22.22 milliseconds
+            stddev = 27.69 milliseconds
+            median = 1.01 milliseconds
+              75% <= 42.26 milliseconds
+              95% <= 45.49 milliseconds
+              98% <= 68.09 milliseconds
+              99% <= 75.68 milliseconds
+            99.9% <= 296.24 milliseconds
+
+
+Total execution time (sec): 181
+Failures: 0
+Successful executions: 709777
+
