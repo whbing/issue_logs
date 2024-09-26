@@ -4,8 +4,8 @@
 download: s3://buk1/file1G to ./tmp1g
 
 real	0m8.619s
-user	0m2.401s
-sys 0m1.934s
+user    0m2.401s
+sys     0m1.934s
 
 [wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
 download: s3://buk1/file1G to ./tmp1g
