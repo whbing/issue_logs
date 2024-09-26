@@ -1,0 +1,123 @@
+************ ozone.s3g.client.buffer.size=4KB ************
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m8.619s
+user	0m2.401s
+sys 0m1.934s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m8.890s
+user	0m2.467s
+sys 0m2.000s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m8.891s
+user	0m2.356s
+sys 0m1.899s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m17.688s
+user	0m4.039s
+sys 0m3.914s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m17.449s
+user	0m3.870s
+sys 0m3.954s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m17.548s
+user	0m3.923s
+sys 0m3.948s
+
+************ ozone.s3g.client.buffer.size=1MB ************
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1G
+download: s3://buk1/file1G to ./tmp1G
+
+real	0m3.215s
+user	0m2.147s
+sys 0m2.124s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1G
+download: s3://buk1/file1G to ./tmp1G
+
+real	0m3.013s
+user	0m2.071s
+sys 0m2.176s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1G
+download: s3://buk1/file1G to ./tmp1G
+
+real	0m3.014s
+user	0m2.063s
+sys 0m2.248s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m5.373s
+user	0m3.427s
+sys 0m5.203s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m6.156s
+user	0m3.414s
+sys 0m5.393s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m5.309s
+user	0m3.518s
+sys 0m4.968s
+
+************ ozone.s3g.client.buffer.size=2MB ************
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m2.935s
+user	0m2.023s
+sys 0m2.264s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m2.850s
+user	0m1.956s
+sys 0m2.312s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file1G tmp1g
+download: s3://buk1/file1G to ./tmp1g
+
+real	0m2.955s
+user	0m2.000s
+sys 0m2.269s
+
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m6.350s
+user	0m3.312s
+sys 0m5.482s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m6.663s
+user    0m3.275s
+sys 0m4.632s
+[wanghongbing@bigdata-client ~]$  time aws s3 --endpoint=http://bigdata-s3g:9878 cp s3://buk1/file2g tmp2g
+download: s3://buk1/file2g to ./tmp2g
+
+real	0m5.812s
+user    0m3.265s
+sys 0m4.711s
